@@ -1,0 +1,10 @@
+0 To Oringin's min Distance is 0
+1 To Oringin's min Distance is 2
+2 To Oringin's min Distance is 7
+3 To Oringin's min Distance is 4
+4 To Oringin's min Distance is 10
+5 To Oringin's min Distance is 8
+6 To Oringin's min Distance is 6
+7 To Oringin's min Distance is 15
+8 To Oringin's min Distance is 13
+9 To Oringin's min Distance is 19
